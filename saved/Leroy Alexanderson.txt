@@ -1,0 +1,17 @@
+WindowType: CharacterWindow
+Name: Leroy Alexanderson
+Fate Points: 2
+Refresh: 3
+Careful: 2
+Clever: 2
+Flashy: 1
+Forceful: 1
+Quick: 3
+Sneaky: 0
+High Concept: High ranking marine captain.
+Trouble: Required to obey the law.
+Aspect: Good at multitasking.
+Stunt: Can request marine backup.
+Stunt: Good at convincing people of his authority.
+Notes: Famous marine captain.
+ImagePath: /home/ted/Desktop/Fate_Accelerated_GUI_Tool/pictures/marine captain.png
