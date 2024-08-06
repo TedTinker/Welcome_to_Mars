@@ -1,6 +1,0 @@
-WindowType: ZoneWindow
-Name: Marine Ship
-Leroy Alexanderson
-Shoot cannons at Pirate Ship
-Notes: Ship of the US Marines.
-ImagePath: /home/ted/Desktop/Fate_Accelerated_GUI_Tool/pictures/marine boat.png

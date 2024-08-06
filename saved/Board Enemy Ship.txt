@@ -1,7 +1,0 @@
-WindowType: ObstacleWindow
-Name: Board Enemy Ship
-Obstacle:4
-Blackbeard:3
-Leroy:0
-Notes: 
-ImagePath: 

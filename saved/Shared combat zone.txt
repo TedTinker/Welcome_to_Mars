@@ -1,7 +1,0 @@
-WindowType: ZoneWindow
-Name: Shared combat zone
-Leroy Alexanderson
-Blackbeard
-Board Enemy Ship
-Notes: 
-ImagePath: 
